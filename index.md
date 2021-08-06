@@ -1,1 +1,3 @@
-Hi!
+---
+layout: home
+---
