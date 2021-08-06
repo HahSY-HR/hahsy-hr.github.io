@@ -1,3 +1,4 @@
 ---
 layout: articles
+permalink: /about/
 ---

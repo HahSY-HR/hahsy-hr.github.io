@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 자기소개
-permalink: /about/
 ---
 
 <b>Basic information</b>
