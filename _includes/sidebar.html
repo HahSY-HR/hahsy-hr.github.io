@@ -5,7 +5,7 @@
 	<p class="lead">{{ site.description }}</p>
 	{%- if social.github -%}
 		<a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}">
-			<svg class="svg-icon grey">
+			<svg class="svg-icon white">
 				<use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}" />
 			</svg></a></li>
 	{%- endif -%}
@@ -15,7 +15,7 @@
 	<ul class="nav">
       <li class="nav-title">Pages</li>
 	  <li>
-	  	<a class="nav-item" href="/">Articles</a>
+	  	<a class="nav-item" href="/articles">Articles</a>
 	  </li>
 	  {% assign pages_list = site.pages %}
 	  {% for node in pages_list %}
