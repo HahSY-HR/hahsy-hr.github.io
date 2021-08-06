@@ -1,4 +1,4 @@
 ---
-layout: articles
+layout: home
 permalink: /articles/
 ---
