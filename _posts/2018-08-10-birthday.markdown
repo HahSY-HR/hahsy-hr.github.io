@@ -37,5 +37,5 @@ p.s. 오빠가 자꾸 내 XL 사이즈 마커레 굿즈 티셔츠 입는건... �
 <br>
 <br>
 <div style="text-align : center;">
-<img src="/assets/img/birthday.png" width="500%" height="auto" alt="생일 축하해!">
+<img src="/assets/img/birthday.png" width="50%" height="auto" alt="생일 축하해!">
 </div>
