@@ -34,6 +34,8 @@ category: metafiction
  <br>
 p.s. 오빠가 자꾸 내 XL 사이즈 마커레 굿즈 티셔츠 입는건... 생일 기념으로 그냥 봐줄게. 인심 썼다! <br>
 </p>
-<p>
-<img src="/assets/img/birthday.png" width="50%" height="auto" align="center" alt="생일 축하해!">
-</p>
+<br>
+<br>
+<div style="text-align : center;">
+<img src="/assets/img/birthday.png" width="500%" height="auto" alt="생일 축하해!">
+</div>
