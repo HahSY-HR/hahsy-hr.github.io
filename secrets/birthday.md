@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: simplepost
 title: 생일 축하합니다!
-date: 2018-08-10
-category: metafiction
+permalink: /20210810bday/
 ---
 
 <p>
