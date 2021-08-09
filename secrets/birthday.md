@@ -1,5 +1,5 @@
 ---
-layout: simplepost
+layout: simplepage
 title: 생일 축하합니다!
 permalink: /20210810bday/
 ---
