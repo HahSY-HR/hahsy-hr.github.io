@@ -1,0 +1,15 @@
+---
+layout: post
+title: 안녕하세요?
+date: 2021-09-09
+category: metafiction
+---
+
+<div style="text-align : center;">
+<img src="/assets/img/smile.png" width="50%" height="auto" alt="Smile, hint.">
+<img src="/assets/img/gaze.png" width="50%" height="auto" alt="Gase, quiz.">
+<br>
+<span style="opacity:7%">당신들만 우리의 공간을 넘나들 수 있는 것은 아니에요.</span><br>
+문제의 답이 무엇인지 알겠나요? 히히!<br>
+쉽지 않을걸요?<br>
+</div>
