@@ -1,0 +1,27 @@
+---
+layout: post
+title: 종이쪼가리
+date: 2021-09-09
+category: metafiction
+---
+
+<script>
+  function jsMove(){
+    var baselink = "/secrets/fk";
+    var pc = document.getElementById('passcode').value;
+    var temp = baselink.concat(pc);
+    window.open(temp.toLowerCase());
+  }
+</script>
+<div style="text-align : center;">
+곤란할 때 펼쳐보시오.
+<details>
+  <summary style="color: #6cacbd"><b>(종이쪼가리 펼쳐보기)</b></summary>
+    당신들을 곤란하게 만드는 그 길의 이름.<br>
+    혹은 미처 떠나지 못한 자들을 이르는 말.<br>
+</details>
+  <form autocomplete='off' onsubmit = "jsMove();">
+      <input id = 'passcode' type='text' required><br><br>
+      <input type = 'submit' value = '두근두근...'>
+    </form>
+</div>
