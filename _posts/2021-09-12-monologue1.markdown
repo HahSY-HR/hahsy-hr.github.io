@@ -1,0 +1,49 @@
+---
+layout: post
+title: 독백
+date: 2021-09-12
+category: diary
+---
+
+<script>
+  function jsMove(){
+    var baselink = "/secrets/mn1";
+    var pc = document.getElementById('passcode').value;
+    var temp = baselink.concat(pc);
+    window.open(temp.toLowerCase());
+  }
+</script>
+<div>
+
+어릴 적 우리 집에는 먼 친척에게서 물려받은 그리스 로마 신화 만화 전집이 있었다.<br>
+낡은 책에선 진드기가 나온다며, 내가 초등학교를 졸업할 적 오빠가 다 갖다 버렸지만...<br>
+많고 많은 이야기가 있고 그만큼 좋아하는 이야기도 많았지만,<br>
+그 중에서도 가장 좋아하고 또 인상적인 이야기를 하나 꼽으라면 난 오이디푸스의 이야기를 좋아한다.<br>
+<br>
+오이디푸스의 아버지 라이오스는 테바이라는 도시의 왕이었는데,<br>
+자신의 아들이 아버지를 죽이고 어머니와 결혼할 것이란 예언을 듣고 난 뒤,<br>
+갓 태어난 아기를 죽이란 명령을 내린다.<br>
+하지만 아기를 차마 죽일 수 없었던 신하는 아기를 거꾸로 매단 뒤 죽였다고 허위 보고를 했고,<br>
+매달린 아기는 코린토스의 왕과 왕비에게 거두어져서 길러진다.<br>
+오이디푸스가 성장하여 청년이 되었을 무렵,
+그는 자신이 아버지를 죽이고 어머니와 결혼할 것이란 신탁을 듣게 되어 그 운명을 피하기 위해 여행을 떠난다.<br>
+그러면 안 됐는데...<br>
+어... 그래서 중간은 잘 기억이 안 나는데,<br>
+아무튼 오이디푸스는 여행길을 가다가 진짜로 자신의 친부를 죽이게 된다.<br>
+물론 그게 자신의 친부였는지는 모르는 채로, 그냥 시비가 붙어서 어쩌다 보니...<br>
+그러고는 또 어찌어찌하다가 테바이에 도착한 다음 스핑크스를 처치하고 영웅이 되는데,<br>
+마침 왕 자리가 비어있었기 때문에 테바이의 왕이 되고 전 왕의 왕비였던 이오카스테와 결혼한다.<br>
+그 뒤의 이야기는, 뭐 다들 알다시피 비극이다.<br>
+<br>
+... 그래서 나는, 내가 깨달은 것을 받아들이기로 했다.<br>
+Rbvkir ujdr ocggmeoeh, mt ju uisjiqetjqq.<br>
+
+
+형식: 영어(명사, 11자)
+<br>
+<form autocomplete='off' onsubmit = "jsMove();">
+  <input id = 'passcode' type='text' required><br>
+  <br>
+  <input type = 'submit' value = '제출...'>
+</form>
+</div>
