@@ -37,8 +37,7 @@ category: diary
 <br>
 ... 그래서 나는, 내가 깨달은 것을 받아들이기로 했다.<br>
 Rbvkir ujdr ocggmeoeh, mt ju uisjiqetjqq.<br>
-
-
+<br>
 형식: 영어(명사, 11자)
 <br>
 <form autocomplete='off' onsubmit = "jsMove();">
