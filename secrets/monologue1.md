@@ -1,6 +1,6 @@
 ---
 layout: simplepage
-title: Logos
+title: Monologue 1
 permalink: /will/
 ---
 

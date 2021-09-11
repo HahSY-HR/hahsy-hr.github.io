@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 독백
+title: 옛날 신화
 date: 2021-09-12
 category: diary
 ---
