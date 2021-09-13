@@ -20,7 +20,6 @@ category: others
 <br>
 <form autocomplete='off' onsubmit = "jsMove();">
   <input id = 'passcode' type='text' required><br>
-  <br>
   <input type = 'submit' value = '제출...'>
 </form>
 </div>
