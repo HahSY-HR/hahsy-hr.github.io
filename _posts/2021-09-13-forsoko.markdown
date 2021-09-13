@@ -1,0 +1,26 @@
+---
+layout: post
+title: ㅋㅋㅋㅋㅎㅋㅎㅋ
+date: 2021-09-13
+category: others
+---
+
+<script>
+  function jsMove(){
+    var baselink = "/secrets/sk";
+    var pc = document.getElementById('passcode').value;
+    var temp = baselink.concat(pc);
+    window.open(temp.toLowerCase());
+  }
+</script>
+<div>
+이 게시글을 제 트친 @soko_su1be_goso를 위해 바칩니다.
+<br>
+형식: 영어(4자)
+<br>
+<form autocomplete='off' onsubmit = "jsMove();">
+  <input id = 'passcode' type='text' required><br>
+  <br>
+  <input type = 'submit' value = '제출...'>
+</form>
+</div>
