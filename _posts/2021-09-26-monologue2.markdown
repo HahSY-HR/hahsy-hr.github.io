@@ -1,0 +1,38 @@
+---
+layout: post
+title: 특이한 애
+date: 2021-09-26
+category: diary
+---
+
+<script>
+  function jsMove(){
+    var baselink = "/secrets/mn2";
+    var pc = document.getElementById('passcode').value;
+    var temp = baselink.concat(pc);
+    window.open(temp.toLowerCase());
+  }
+</script>
+<div>
+우리 가족의 말에 따르면, 나는 어릴 적부터 참 이상한 애였다고 한다.<br>
+다른 애들이 나가서 놀 시간에 콕 틀어박혀서 해 질때까지 책을 읽고,<br>
+남들 다 컴퓨터 하는 나이에 똑같이 컴퓨터 하나 싶더니 코딩을 독학하고,<br>
+답을 모르거나 답이 없는 것 같으면 그냥 찍으면 되는데 굳이 안 풀고 나오고,<br>
+계획을 철저하게 세워서 실행하고 자기 뜻대로 안 되면 울고불고 난리를 치고...<br>
+... 너무 자기 자랑 같나? 그래봤자 고등학생이 된 지금은 남들과 다를 것 없이 평범하게 살고 있지만 ㅎㅎ;<br>
+참 다사다난했다는데, 놀랍게도, 그리고 매번 뒷처리를 해줬을 가족에게는 미안하게도, 나는 잘 기억이 나지 않는다.<br>
+정확하게 말하자면... '뭔가 일이 엄청 많았다!'는 사실 자체는 어렴풋이 기억이 나는데, 구체적인 사건을 떠올리라면 단편적인 장면들만 스쳐 지나가는 정도?<br>
+유치원 때 일은 물론이고, 초등학생 때나 중학생 때 어떤 일들이 있었고 어떤 추억들이 있었는지도... 남들과 비교했을 때도 이상하리만치 잘 기억이 안 난다.<br>
+오죽하면 호적메이트가 '어떻게 된 게 고등학생이 스물일곱인 나보다도 장기 기억이 후달리냐'고 어이없다는 듯 물었을 정도...
+<br>
+<div style="text-align : center;">
+<img src="/assets/img/findnumbers.png" width="75%" height="auto" alt="Find numbers from the lines.">
+</div>
+형식: 숫자(16자리)
+<br>
+<form autocomplete='off' onsubmit = "jsMove();">
+  <input id = 'passcode' type='text' required><br>
+  <br>
+  <input type = 'submit' value = '얍'>
+</form>
+</div>
