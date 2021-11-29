@@ -1,0 +1,19 @@
+---
+layout: post
+title: 계책
+date: 2021-11-29
+category: others
+---
+
+
+<div>
+곤란할 때 펼쳐보시오.<br>
+<details>
+  <summary style="color: #6cacbd"><b>(종이쪼가리 펼쳐보기)</b></summary>
+    알아서 하시오.<br>
+    <span style="color: white">과거의 포스팅이 도움이 될지도...<br></span>
+    <span style="color: white">당신도 모르는 새 뭔가 추가됐을 수도!<br></span>
+</details>
+
+
+</div>
