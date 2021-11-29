@@ -4,7 +4,7 @@ title: ...
 ---
 <script>
   function defa(){
-    location.href="/secrets/dGhlc2Vjb25k";
+    location.href="/secrets/dGhlbmV4dG1pZA==";
   }
 </script>
 <body onload="defa()">

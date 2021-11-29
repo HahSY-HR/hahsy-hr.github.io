@@ -1,6 +1,6 @@
 ---
 layout: fakepost
-title:시계는 아침부터 똑 딱 똑 딱
+title: 시계는 아침부터 똑 딱 똑 딱
 date: 2018-10-04
 ---
 
