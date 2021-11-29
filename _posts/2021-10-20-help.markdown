@@ -13,6 +13,8 @@ category: diary
     window.open(temp.toLowerCase());
   }
 </script>
+
+
 <div>
 힘들어죽을것같애<br>
 <span style="color: white">제목: 코끼리에 대해서 생각하지 마세요<br></span>
@@ -27,7 +29,7 @@ ejr덕질만하기에도 힘든삶인데요선생님 ㅠㅠㅠㅠㅠㅠㅠㅠ<br
 하...<br>
 <span style="color: white">정말 중요한 것은 그게 아닌데<br></span>
 <br>
-</div>
+<br>
 형식: 영어 (9자)
 <br>
 <form autocomplete='off' onsubmit = "jsMove();">
