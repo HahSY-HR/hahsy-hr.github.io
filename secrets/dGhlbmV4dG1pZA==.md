@@ -14,7 +14,7 @@ date: 2018-10-04
 </script>
 
 <div>
-<a href="https://hahsy-hr.github.io/category/#diary"></a>...<br>
+<a href="https://hahsy-hr.github.io/category/#diary">...</a><br>
 기대에 부푼 마음을 끌어안고 눈을 뜬다.<br>
 작은 가방에 간식과 기념품과 응원봉을 차곡차곡,<br>
 더 이상 들어가지 않을 때까지.<br>
