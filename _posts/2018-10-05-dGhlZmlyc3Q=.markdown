@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 시계는 아침부터 똑 딱 똑 딱
-date: 2018-10-04
+date: 2018-10-05
 category: diary
 ---
 
