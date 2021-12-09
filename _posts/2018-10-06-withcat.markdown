@@ -1,0 +1,13 @@
+---
+layout: post
+title: 고양이!
+date: 2018-10-06
+category: diary
+---
+
+<div>
+기숙사 고양이 넘 기여어 ㅠㅠㅠ <br>
+    <div style="text-align : center;">
+        <img src="/assets/img/withboltzmann.png" width="50%" height="auto" alt="Smile, hint.">
+    </div>
+</div>
