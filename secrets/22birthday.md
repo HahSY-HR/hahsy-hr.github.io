@@ -5,8 +5,7 @@ permalink: /20220810bday/
 ---
 
 <p>
-(브금은 유튜브에서 알아서 트시오) <br>
-(친절하게 <a href="https://youtu.be/YpVlHlsjAtc">링크</a>는 달아줌) <br>
+(<a href="https://youtu.be/YpVlHlsjAtc">대충롹한생일브금</a>) <br>
  <br>
 ㅎㅇ염 오라버니<br>
 
@@ -28,7 +27,7 @@ permalink: /20220810bday/
  <br>
  <br>
  <br>
-사랑... 사랑니 뽑았어 오늘 말 안해서 미안 <br>
+사랑... 사랑니 뽑았어 오늘... 말 안해서 미안 <br>
  <br>
 늘 센스있는 킹왕짱동생마마님 수연이가. <br>
  <br>
