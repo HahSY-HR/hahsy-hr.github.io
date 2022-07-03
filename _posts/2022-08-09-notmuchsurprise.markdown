@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 이것은...?!
-date: 2021-08-09
+date: 2022-08-09
 category: metafiction
 ---
 <script>
