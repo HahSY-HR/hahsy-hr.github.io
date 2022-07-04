@@ -6,7 +6,7 @@ category: metafiction
 ---
 <script>
   function jsMove(){
-    var baselink = "https://hahsy-hr.github.io/2022";
+    var baselink = "https://hahsy-hr.github.io/2022notyet";
     var tail = "bday/";
     var pc = document.getElementById('passcode').value;
     alert("접속을 시도합니다. 404에러가 났다면, 틀렸지롱!");
