@@ -1,0 +1,13 @@
+---
+layout: post
+title: 고양이!
+date: 2019-12-10
+category: diary
+---
+
+<div>
+이렇게 찍으면 얼굴 매우 작아짐 <br>
+    <div style="text-align : center;">
+        <img src="/assets/img/together.png" width="50%" height="auto" alt="안경으로 얼굴 줄이기!">
+    </div>
+</div>
